@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d5324ec-e81d-43a2-8fa1-f9ce4fbc9ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_Labs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LineItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +46,13 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunManager">
+    <configuration name="TestComputer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestComputer" />
+      <module name="OOP_Labs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -62,6 +64,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestComputer" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,14 +78,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605088228016</updated>
-      <workItem from="1605088229057" duration="1439000" />
+      <workItem from="1605088229057" duration="1778000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab11">
+      <created>1605090298308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605090298308</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab11" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="477" y="34" key="CommitChangelistDialog2" timestamp="1605090297384">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state x="477" y="34" key="CommitChangelistDialog2/0.0.1707.929@0.0.1707.929" timestamp="1605090297384" />
     <state x="533" y="381" key="Github.ShareDialog" timestamp="1605088252195">
       <screen x="0" y="0" width="1707" height="929" />
     </state>
@@ -87,5 +110,25 @@
       <screen x="0" y="0" width="1707" height="929" />
     </state>
     <state x="525" y="188" width="471" height="589" key="Github.UntrackedFilesDialog/0.0.1707.929@0.0.1707.929" timestamp="1605088260581" />
+    <state width="1663" height="245" key="GridCell.Tab.0.bottom" timestamp="1605090332031">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="245" key="GridCell.Tab.0.bottom/0.0.1707.929@0.0.1707.929" timestamp="1605090332031" />
+    <state width="1663" height="245" key="GridCell.Tab.0.center" timestamp="1605090332031">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="245" key="GridCell.Tab.0.center/0.0.1707.929@0.0.1707.929" timestamp="1605090332031" />
+    <state width="1663" height="245" key="GridCell.Tab.0.left" timestamp="1605090332030">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="245" key="GridCell.Tab.0.left/0.0.1707.929@0.0.1707.929" timestamp="1605090332030" />
+    <state width="1663" height="245" key="GridCell.Tab.0.right" timestamp="1605090332031">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1663" height="245" key="GridCell.Tab.0.right/0.0.1707.929@0.0.1707.929" timestamp="1605090332031" />
+    <state x="446" y="198" key="Vcs.Push.Dialog.v2" timestamp="1605090301951">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state x="446" y="198" key="Vcs.Push.Dialog.v2/0.0.1707.929@0.0.1707.929" timestamp="1605090301951" />
   </component>
 </project>
